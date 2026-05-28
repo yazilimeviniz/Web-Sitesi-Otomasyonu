@@ -1,0 +1,6 @@
+{
+  "name": "Otonom Web Üretim Bandı",
+  "description": "Firma bilgileri ve seçilen özelliklere göre otonom olarak tasarım, kopya içerik metinleri ve üst düzey teknik SEO yerleşimleri üreten akıllı dijital ajans üretim bandı.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
